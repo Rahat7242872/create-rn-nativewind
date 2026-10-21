@@ -1,0 +1,6 @@
+node_modules/
+TestApp/
+.env
+.env.*
+!.env.example
+*.tgz
