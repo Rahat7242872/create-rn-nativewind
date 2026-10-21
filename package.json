@@ -1,0 +1,28 @@
+
+{
+  "name": "create-rn-nativewind",
+  "version": "1.0.0",
+  "description": "Create React Native projects with Expo Router and NativeWind",
+  "type": "module",
+  "bin": {
+    "create-rn-nativewind": "./bin/index.js"
+  },
+  "files": [
+    "bin/index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node ./bin/index.js"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "nativewind",
+    "expo-router"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
+}
